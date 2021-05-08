@@ -1,0 +1,13 @@
+.Container {
+    margin: 5px 0;
+    /* width: 100%; */
+    box-sizing: border-box;
+}
+
+.DatePicker {
+    border-radius: 5px;
+    padding: 5px;
+    height: 30px;
+    font-size: 1.2rem;
+    text-align: center;
+}
