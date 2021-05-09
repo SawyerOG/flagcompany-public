@@ -1,4 +1,4 @@
-#Construction / Field Work Application
+#Construction / Field Work Application#
 
 This is a personal project with the goal to help manage jobs, inventory, and people.
 
